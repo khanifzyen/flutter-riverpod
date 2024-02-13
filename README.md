@@ -1,7 +1,3 @@
----
-description: Riverpod merupakan salah satu solusi state management dalam Flutter.
----
-
 # Introduction
 
 **Riverpod** hadir untuk melengkapi kekurangan dari **Provider** (_state management_ yang lain). Tetapi Riverpod tidak hanya solusi _state management_, tetapi juga sebagai pengganti _design pattern_ seperti **Singleton**, **Dependency Injection**, dan **Service Locator**. Ia juga hadir untuk membantu melakukan _fetching, caching,_ dan _cancelling network request_ dimana ia juga bisa melakukan _handling error._
