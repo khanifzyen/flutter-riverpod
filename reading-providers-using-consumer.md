@@ -1,2 +1,0 @@
-# Reading Providers using Consumer
-

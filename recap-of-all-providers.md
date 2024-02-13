@@ -1,2 +1,0 @@
-# Recap of all Providers
-
